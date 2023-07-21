@@ -31,6 +31,36 @@ You can talk to the bot in voice messages, the bot will transcribe and respond. 
 -   An [OpenAI API key](https://beta.openai.com/signup)
 -   A WhatsApp account
 
+#### SETUP
+
+1. Fork the repo
+    <br>
+<a href='https://github.com/RSxGamerz/WhatsAI-Bot/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=lime'/></a>
+
+#### DEPLOY TO Heroku 
+
+1. If You don't have an account in Heroku. Create a account.
+    <br>
+<p align="center"><a href="https://signup.heroku.com"> <img src="https://img.shields.io/badge/heroku%20Account-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+
+2. Watch the following video to create Heroku acc for free.
+    <br>
+<p align="center"><a href="https://www.youtube.com/watch?v=J_Sq5OxK8ZE"> <img src="https://img.shields.io/badge/heroku%20Tutorial-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+
+3. Now Deploy
+    <br>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/RSxGamerz/WhatsAI-Bot"> <img src="https://img.shields.io/badge/Heroku%20Deploy-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+
+#### DEPLOY TO Replit 
+
+1. If You don't have an account in Replit. Create a account.
+    <br>
+<p align="center"><a href="https://replit.com/signup"> <img src="https://img.shields.io/badge/replit%20Account-blue?style=for-the-badge&logo=replit" width="220" height="38.45"/></a></p>
+
+2. Now Deploy
+    <br>
+<p align="center"><a href="https://repl.it/github/RSxGamerz/WhatsAI-Bot"> <img src="https://img.shields.io/badge/replit%20Deploy-blue?style=for-the-badge&logo=replit" width="220" height="38.45"/></a></p>
+
 ## Documentation
 
 In the documentation you can find more information about how to install, configure and use this bot.
