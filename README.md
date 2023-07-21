@@ -7,14 +7,9 @@
 <p align="center">
 <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=00ff00&center=true&vCenter=true&multiline=false&lines=WHATSAI+BOT+V1+BETA" alt="">
 </p>
-
-<p align="center">
+  
 ![Docker](https://github.com/RSxGamerz/WhatsAI-Bot/actions/workflows/docker.yml/badge.svg)
-</p>
-
-<p align="center">
 ![Prettier](https://github.com/RSxGamerz/WhatsAI-Bot/actions/workflows/prettier.yml/badge.svg)
-</p>
 
 <p align="center">
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
