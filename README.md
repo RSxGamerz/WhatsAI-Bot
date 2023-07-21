@@ -1,6 +1,6 @@
 # GPT + DALL-E + WhatsApp = WhatsAI Bot 🚀
 
-<a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=ff0000&center=true&vCenter=true&multiline=false&lines=WHATSAI+BOT+V1+BETA" alt="">
+<a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=00ff00&center=true&vCenter=true&multiline=false&lines=WHATSAI+BOT+V1+BETA" alt="">
 
 ![Docker](https://github.com/RSxGamerz/WhatsAI-Bot/actions/workflows/docker.yml/badge.svg)
 ![Prettier](https://github.com/RSxGamerz/WhatsAI-Bot/actions/workflows/prettier.yml/badge.svg)
