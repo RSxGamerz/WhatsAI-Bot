@@ -1,4 +1,4 @@
-# GPT + DALL-E + WhatsApp = AI Assistant 🚀
+# GPT + DALL-E + WhatsApp = WhatsAI Bot 🚀
 
 ![Docker](https://github.com/RSxGamerz/WhatsAI-Bot/actions/workflows/docker.yml/badge.svg)
 ![Prettier](https://github.com/RSxGamerz/WhatsAI-Bot/actions/workflows/prettier.yml/badge.svg)
