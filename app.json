@@ -1,0 +1,36 @@
+{
+  "name": "whatsai-bot",
+  "description": "The best chatbot for whatsapp.",
+  "keywords": [
+    "whatsapp bot",
+    "whatsapp-gpt",
+    "whatsapp-chatbot",
+    "whatsapp-chatgpt",
+    "chatgpt",
+    "whatsapp-bot",
+    "whatsapp"
+  ],
+  "repository": "https://github.com/RSxGamerz/WhatsAI-Bot",
+  "stack": "container",
+  "env": {
+    "OPENAI_API_KEY": {
+      "description": "openai apikey",
+      "required": false,
+      "value": ""
+    }
+    },
+    "buildpacks": [
+    {
+      "url": "heroku/nodejs"
+    },
+    {
+      "url": "https://github.com/DuckyTeam/heroku-buildpack-imagemagick.git"
+    },
+    {
+      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+    },
+    {
+      "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
+    }
+  ]
+}
